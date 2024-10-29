@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chris, an <a href="https://www.linkedin.com/in/christopher-vasquez-7a4a90286/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Chris, an <a href="https://www.linkedin.com/in/christopher-vasquez-7a4a90286/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
