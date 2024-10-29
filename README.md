@@ -12,8 +12,8 @@
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Chris | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Chris | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[twitter]: https://x.com/i/flow/login?lang=en
 [linkedin]: https://www.linkedin.com/in/christopher-vasquez-7a4a90286/
+[twitter]: https://x.com/i/flow/login?lang=en
